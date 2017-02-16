@@ -1,23 +1,14 @@
----
-# render the output file with .5in margins
-geometry: margin=.5in
-
-# render the output file without page numbers
-header-includes:
-	- \pagenumbering{gobble}
----
-
 # Dustin Bosveld #
-(970)430-8039 - DustinBosveld@gmail.com
+(970) 430-8039 - DustinBosveld@gmail.com
 
-## Employment objective ##
+## Profile: ##
 
-I'm passionate about excellence, learning, and launching people reach their full potential. When it comes to excellence, I decide to take the approach: work smarter and harder. I will not half do a job and I intend on getting things right the first time. By way of learning, I have a habbit of taking on challenging projects to expand my understanding. I also really like solving problems. I additionally have a really good memory and can remember nearly everything I learn. For launching people into their potential, I am in my third year at a leadership school where I am currently an intern helping run the school. By doing things in excellence and developing people I 
+I'm passionate about: excellence, learning, and launching people to reach their full potential. When it comes to excellence, I decide to take the approach: work smarter and harder. I will not half do a job and I intend on getting things right the first time. By way of learning, I have a habit of taking on challenging projects to expand my understanding. I also really like solving problems. Additionally, I have a really good memory and can remember nearly everything I learn. For launching people into their potential, I am in my third year at a leadership school where I am currently an intern helping run the school. By doing things in excellence and developing people I intend to change the world around me. 
 
 ## Experience: ##
 
-**Mail Shop Clerk**: Front Range Enterprises and Communication, February 2015 - August 2016
-
+**Mail Shop Clerk**: Front Range Enterprises and Communication, February 2015 - October 2016
+ 
 - Produced bulk mail by operating specialized equipment
 - Troubleshot and repaired bulk mail machines
 - Drove finalized bulk mail to the post office
