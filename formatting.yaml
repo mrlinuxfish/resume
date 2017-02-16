@@ -1,0 +1,8 @@
+---
+# render the output file with .5in margins
+geometry: margin=.5in
+
+# render the output file without page numbers
+header-includes:
+	- \pagenumbering{gobble}
+---
