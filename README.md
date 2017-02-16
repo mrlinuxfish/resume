@@ -2,6 +2,8 @@
 
 The purpose of this project is to use markdown to create a really nice looking resume
 
+If you are looking for my resume you can find it on [github](http://github.com/mrlinuxfish/resume/blob/master/resume.md) or as a [pdf](https://github.com/mrlinuxfish/resume/blob/master/resume.pdf).
+
 ## Using the Markdown Resume Project ##
 
 This project depends on:
