@@ -1,4 +1,4 @@
-# Dustin Bosveld #
+# Dustin Bosveld # 
 (970) 430-8039 - DustinBosveld@gmail.com
 
 ## Profile: ##
@@ -6,6 +6,11 @@
 I'm passionate about: excellence, learning, and launching people to reach their full potential. When it comes to excellence, I decide to take the approach: work smarter and harder. I will not half do a job and I intend on getting things right the first time. By way of learning, I have a habit of taking on challenging projects to expand my understanding. I also really like solving problems. Additionally, I have a really good memory and can remember nearly everything I learn. For launching people into their potential, I am in my third year at a leadership school where I am currently an intern helping run the school. By doing things in excellence and developing people I intend to change the world around me. 
 
 ## Experience: ##
+
+**Inventory Specialist**: RGIS, March 2017 - Present
+
+- Efficiently and accurately count inventory items
+- Produce reports on inventories with near 100% accuracy
 
 **Mail Shop Clerk**: Front Range Enterprises and Communication, February 2015 - October 2016
  
@@ -48,4 +53,4 @@ I'm passionate about: excellence, learning, and launching people to reach their 
 
 **Greg Brown**, Leadership school director and mentor: (720) 442-2348
 
-**Bryan Payne**, Previous employer: (970) 556-1000
+**Milagros Bernedo**, Current employer: (970) 204-4431
