@@ -1,5 +1,5 @@
 # Dustin Bosveld # 
-(970) 430-8039 - DustinBosveld@gmail.com
+(970)430-8039 - DustinBosveld@gmail.com
 
 ## Profile: ##
 
@@ -7,10 +7,10 @@ I'm passionate about: excellence, learning, and launching people to reach their 
 
 ## Experience: ##
 
-**Inventory Specialist**: RGIS, March 2017 - Present
+**Team Lead**: RGIS, March 2017 - Present
 
-- Efficiently and accurately count inventory items
-- Produce reports on inventories with near 100% accuracy
+- Effectively lead teams of 3-50 people in providing accurate and efficient inventory service
+- Diligently work ot provide reliable inventory figures to clients
 
 **Mail Shop Clerk**: Front Range Enterprises and Communication, February 2015 - October 2016
  
