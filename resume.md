@@ -3,7 +3,7 @@
 
 ## Profile: ##
 
-I'm passionate about: excellence, learning, and launching people to reach their full potential (leadership). Quite a long time ago, I was thinking about the phrase 'work smarter, not harder'. I decided it was a better idea to adopt the approach of 'work smarter and harder'. I will not half do a job and I intend on getting things right the first time or learn how to do them correctly for the next time. I enjoy taking on challenging projects to expand my skill set. I also really like solving problems. Additionally, I have a really good memory and can remember nearly everything I learn. I spent over three years learning how to effictively lead people and have actively been in a leadership role on the job since June 2017. By doing things in excellence and developing people I intend to change the world around me. 
+I'm passionate about: excellence, learning, and launching people to reach their full potential (leadership). Quite a long time ago, I was thinking about the phrase 'work smarter, not harder'. I decided it was a better idea to adopt the approach of 'work smarter and harder'. I will not half do a job and I intend on getting things right the first time, or learn how to do things correctly the next time I'm in a similar situation. I enjoy taking on challenging projects to expand my skill set. I also really like solving problems. Additionally, I have a really good memory and can remember nearly everything I learn. I spent over three years learning how to effictively lead people and have actively been in a leadership role on the job since June 2017. By doing things in excellence and developing people I intend to change the world around me. 
 
 ## Experience: ##
 
