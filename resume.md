@@ -3,16 +3,6 @@
 
 ## Profile: ##
 
-<<<<<<< HEAD
-I'm passionate about: excellence, learning, and launching people to reach their full potential (leadership). Quite a long time ago, I was thinking about the phrase 'work smarter, not harder'. I decided it was a better idea to adopt the approach of 'work smarter and harder'. I will not half do a job and I intend on getting things right the first time, or learn how to do things correctly the next time I'm in a similar situation. I enjoy taking on challenging projects to expand my skill set. I also really like solving problems. Additionally, I have a really good memory and can remember nearly everything I learn. I spent over three years learning how to effictively lead people and have actively been in a leadership role on the job since June 2017. By doing things in excellence and developing people I intend to change the world around me. 
-
-## Experience: ##
-
-**Team Lead**: RGIS, March 2017 - Present
-
-- Effectively lead teams of 3-50 people in providing accurate and efficient inventory service
-- Diligently work ot provide reliable inventory figures to clients
-=======
 I'm passionate about: excellence, learning, and launching people to reach their full potential. I will not half do a job and I insist on doing things right the first time. I am constantly learning new skills. And, most importantly, I constantly work to promote people to their full potential.
 
 ## Experience: ##
@@ -27,7 +17,6 @@ I'm passionate about: excellence, learning, and launching people to reach their 
 
 - Mentor and lead groups middle school students
 - Prepare and deliver relevant messages to students
->>>>>>> 6779443... Update resume
 
 **Mail Shop Clerk**: Front Range Enterprises and Communication, February 2015 - October 2016
  
